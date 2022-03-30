@@ -11,3 +11,5 @@
  * for 3 pegs
  * 
  */
+
+console.log('hola');
