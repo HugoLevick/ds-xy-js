@@ -6,15 +6,16 @@
  * may use code from previous exercises
  *
  * PROBLEM 1
- * contains(v)
+ * create a linked-list with 1000-random-names
+ * 'name3', 'name99', ..., 'name7'
  *
- * look up for value v in the linked list
- * @arg {type} v - value; may be of a char, number, u object
- * @returns {bool} - true or false, if value v exist or not
- * may use traverse
+ * then look 'name7' up
+ * returns true
  *
- * @example
- * contains(3)
+ * then look 'name3007' up
+ * returns false
+ *
+ * use the method contains
  *
  * @see {@link https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array}
  * @see {@link https://jsdoc.app}
